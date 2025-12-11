@@ -50,11 +50,12 @@ Ensure you have the following installed:
 consloe Interaction
 
    ```bash
-Enter the number of neighbors (k) for KNN: 3
-Model Accuracy: 0.96
-Balanced Accuracy: 0.95
-Enter the sepal.length and petal.length for the iris in the format 'sepal_length,petal_length': 5.1,1.8
-Predicted Label: Virginica
+   Enter the number of neighbors (k) for KNN: 3
+   Model Accuracy: 0.96
+   Balanced Accuracy: 0.95
+   Enter the sepal.length and petal.length for the iris in the format 'sepal_length,petal_length': 5.1,1.8
+   Predicted Label: Virginica
+  ```
 
 ## Notes
 - Ensure that the input for predictions is numeric and follows the correct format (value1,value2).
