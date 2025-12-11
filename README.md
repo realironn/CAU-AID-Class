@@ -41,11 +41,15 @@ Ensure you have the following installed:
    python lec13_base.py
 
 2.Enter the number of neighbors (k) when prompted.
+
 3.View the model's accuracy and balanced accuracy in the console.
+
 4.Input sepal.length and petal.length in the format value1,value2 to predict the iris species
 
 ## Example
 consloe Interaction
+
+   ```bash
 Enter the number of neighbors (k) for KNN: 3
 Model Accuracy: 0.96
 Balanced Accuracy: 0.95
